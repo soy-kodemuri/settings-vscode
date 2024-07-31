@@ -1,0 +1,26 @@
+
+EXTENCIONES
+----------------------
+Error Lens
+Indent Rainbow
+Path Intelisense
+Live Server
+Code Runner
+Code Spell Checker
+
+THEME
+----------------------
+Doki Theme
+
+
+SETTINGS
+----------------------
+Cursor Blinking: Expand
+Linked Editing: checked
+Bracket Pair Colorization: Checked
+Bracket Pairs: True
+Breadcrumbs: Unchecked
+Sticky Scroll: Checked
+Cursor Smooth Caret Animation: on
+Tab Size: 2
+Font Size: 16
